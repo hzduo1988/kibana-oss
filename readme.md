@@ -1,5 +1,4 @@
 kibana 5.6.11 remove x-pack plugin
-
 kibana.yml config needs add:
 ---
 apiVersion: v1
